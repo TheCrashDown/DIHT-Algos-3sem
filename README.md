@@ -1,5 +1,5 @@
-﻿# MIPT-Algos-3sem
-My solutions of MIPT Algorithms & Data Structures contests tasks
+﻿# DIHT-Algos-3sem
+My solutions of DIHT Algorithms & Data Structures contests tasks
 
 Probably they : 
 - are not effective
